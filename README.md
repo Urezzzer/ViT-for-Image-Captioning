@@ -17,17 +17,10 @@ So I have 591753 objects in train dataset and 25014 objects in validation datase
 
 Model | CNN + LSTM with Attn | ViT + LSTM with Attn | ViT + GPT |
 Train BLEU-1 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Train BLEU-2 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Train BLEU-3 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Train BLEU-4 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Valid BLEU-1 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Valid BLEU-2 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Valid BLEU-3 | 0 | 0 | 0 |
---- | --- | --- | --- |
 Valid BLEU-4 | 0 | 0 | 0 |
