@@ -13,7 +13,7 @@ Size of dataset is about 117k.
 
 I created unique pairs: Image - Caption (on average 5 Captions per Image). 
 
-So I have 591753 objects in train dataset and 25014 objects in validation dataset
+So I have 591753 objects in train dataset and 25014 objects in validation dataset but I used first 20k objects to train models and 10k to validate them (I don't have the ability to use more data).
 
 Model | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
