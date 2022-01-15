@@ -9,7 +9,7 @@ Basic model to understand task. I created model, you can use/develop it for free
 
 * ViT for Masked-Image Modeling in Full Transformer Architectures.
 
-Trained on COCO 2017 Dataset - https://cocodataset.org/#home
+Trained on [COCO 2017 Dataset](https://cocodataset.org/#home)
 
 Size of dataset is about 117k. 
 
