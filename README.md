@@ -23,4 +23,5 @@ Train BLEU-4 | 0 | 0 | 0 |
 Valid BLEU-1 | 0 | 0 | 0 |
 Valid BLEU-2 | 0 | 0 | 0 |
 Valid BLEU-3 | 0 | 0 | 0 |
+--- | --- | --- | --- |
 Valid BLEU-4 | 0 | 0 | 0 |
