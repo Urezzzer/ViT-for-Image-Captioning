@@ -8,11 +8,16 @@ Basic model to understand task. I created model, you can use/develop it for free
 Several examples of captioning:
 
 ![](./examples/1.jpg)
+---
 ![](./examples/2.jpg)
+---
 ![](./examples/3.jpg)
+---
 ![](./examples/4.jpg)
 ![](./examples/5.jpg)
 ![](./examples/6.jpg)
+
+
 
 * ViT for Masked-Image Modeling in Image2Seq
 
