@@ -5,6 +5,9 @@ Implementation of Vision Transformer to solve image captioning task, a simple wa
 
 Basic model to understand task. I created model, you can use/develop it for free :) Easy to implement. Fast to train. Fun to caption.
 
+Several examples of captioning:
+[](examples/1.jpg)
+
 * ViT for Masked-Image Modeling in Image2Seq
 
 * ViT for Masked-Image Modeling in Full Transformer Architectures.
