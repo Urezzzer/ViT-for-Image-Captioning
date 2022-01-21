@@ -14,10 +14,12 @@ Several examples of captioning:
 ![](./examples/3.jpg)
 ---
 ![](./examples/4.jpg)
+---
+Model has motorcycle bias so  it describes only vehicles if sees them on the picture.
 ![](./examples/5.jpg)
+---
 ![](./examples/6.jpg)
-
-
+---
 
 * ViT for Masked-Image Modeling in Image2Seq
 
