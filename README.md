@@ -19,13 +19,13 @@ So I have 591753 objects in train dataset and 25014 objects in validation datase
 
 Model | CNN + LSTM with Attn | ViT + LSTM with Attn | ViT + GPT |
 --- | --- | --- | --- |
-Train BLEU-1 | 0 | 0 | 0 |
-Train BLEU-2 | 0 | 0 | 0 |
-Train BLEU-3 | 0 | 0 | 0 |
-Train BLEU-4 | 0 | 0 | 0 |
-Valid BLEU-1 | 0 | 0 | 0 |
-Valid BLEU-2 | 0 | 0 | 0 |
-Valid BLEU-3 | 0 | 0 | 0 |
-Valid BLEU-4 | 0 | 0 | 0 |
+Train BLEU-1 | 0.641 | 0 | 0 |
+Train BLEU-2 | 0.561 | 0 | 0 |
+Train BLEU-3 | 0.487 | 0 | 0 |
+Train BLEU-4 | 0.429 | 0 | 0 |
+Valid BLEU-1 | 0.484 | 0 | 0 |
+Valid BLEU-2 | 0.286 | 0 | 0 |
+Valid BLEU-3 | 0.207 | 0 | 0 |
+Valid BLEU-4 | 0.123 | 0 | 0 |
 
 [Inspired](https://github.com/lucidrains/vit-pytorch) me for this project!
