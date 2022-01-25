@@ -3,7 +3,7 @@ Implementation of Vision Transformer to solve image captioning task, a simple wa
 
 * Image captioning model based on Image2Seq Architecture (CNN Feature Extractor + LSTM with MultiHead Attention)
 
-Basic model to understand task. I created model, you can use/develop it for free :)
+Basic model to understand image captioning task. I created the model, you can use/develop it for free :)
 
 Several examples of captioning:
 
