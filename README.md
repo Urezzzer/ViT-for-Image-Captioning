@@ -24,7 +24,7 @@ Model has motorcycle bias so  it describes only vehicles if sees them on the pic
 
 * ViT for Masked-Image Modeling in Image2Seq
 
-* ViT for Masked-Image Modeling in Full Transformer Architectures.
+* ViT for Masked-Image Modeling in Full Transformer Architecture.
 
 Trained on [COCO 2017 Dataset](https://cocodataset.org/#home)
 
