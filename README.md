@@ -1,7 +1,7 @@
 # ViT-for-Image-Captioning
 Implementation of Vision Transformer to solve image captioning task, a simple way to achieve SOTA, in Pytorch
 
-* Image captioning model based on Image2Seq Architecture (CNN Feature Extractor + LSTM with MultiHead Attention)
+* [Image captioning model based on Image2Seq Architecture (CNN Feature Extractor + LSTM with MultiHead Attention)](./image2seq.ipynb)
 
 Basic model to understand image captioning task. I created the model, you can use/develop it for free :)
 
