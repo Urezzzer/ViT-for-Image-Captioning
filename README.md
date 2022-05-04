@@ -34,7 +34,7 @@ Size of dataset is about 117k.
 
 I created unique pairs: Image - Caption (on average 5 Captions per Image). 
 
-So I got 591753 objects in train dataset and 25014 objects in validation dataset but I used random-sampled 61k objects per epoch to train models and first 10k objects from validation dataset to validate them. Overall 15 epochs (I didn't have the ability to train more data).
+So I got 591753 objects in train dataset and 25014 objects in validation dataset but I used random-sampled 61k objects per epoch to train models and first 10k objects from validation dataset to validate them. Overall 35 epochs (I don't have the opportunity to train anymore. the same's about number of train objects).
 
 Model | CNN + LSTM with Attn | ViT + LSTM with Attn | ViT + GPT |
 --- | --- | --- | --- |
